@@ -10,7 +10,6 @@ end)
 -- Threads --
 
 CreateThread(function()
-    Wait(1000)
     exports['qb-target']:AddTargetBone(Config.TargetableVehicleBones, {
         options = {
             {
