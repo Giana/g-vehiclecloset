@@ -4,7 +4,7 @@ game 'gta5'
 
 author 'Giana - github.com/Giana'
 description 'g-vehiclecloset'
-version '1.0.1'
+version '1.0.2'
 
 shared_scripts {
     '@qb-core/shared/locale.lua',
